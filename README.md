@@ -59,9 +59,7 @@
 <!--  -->
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vademich&show_icons=true&locale=en"
-        alt="vademich" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vademich&" alt="vademich" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vademich&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 
