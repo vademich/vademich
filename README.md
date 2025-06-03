@@ -6,8 +6,6 @@
 
 <br/><br/>
 
-<br/><br/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171717&height=80&section=footer"/>
 
 <h3>Connect with me:</h3>
