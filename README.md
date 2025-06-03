@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=40&center=true&vCenter=true&width=1150px&lines=Hello,+my+name+is+Vadim;My+experience+>+5+years+in+programming;)](https://git.io/typing-svg)
 
-<br/><br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171717&height=80&section=footer"/>
 
